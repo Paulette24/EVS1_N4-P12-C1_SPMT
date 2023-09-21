@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'spmt_app1',
+    'spmt_app2'
 ]
 
 MIDDLEWARE = [
